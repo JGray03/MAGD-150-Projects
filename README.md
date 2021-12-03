@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# MAGD-150-Projects
+This is a repository for my favorite MAGD 150 lab projects.
 
-You can use the [editor on GitHub](https://github.com/JGray03/MAGD-150-Projects/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+# MAGD Lab 02
+[Lab 02](https://github.com/JGray03/MAGD-150-Projects/tree/gh-pages/f21magd150lab02_Gray) 
+This Project was one of the first ones that I did. It is about color and the theme for the project is space. It incorperates different color modes and shapes to show the main theme in different ways.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# MAGD Lab 04
+[Lab 04](https://github.com/JGray03/MAGD-150-Projects/tree/gh-pages/f21magd150lab04_Gray)
+The theme for this lab is Pizza. It incorperates many functions likes mousePressed and keyPressed which allows the pizza to be made with these functions. This allows the lab to be interactive and fun to use.
 
-### Markdown
+# MAGD Lab 05
+[lab 05](https://github.com/JGray03/MAGD-150-Projects/tree/gh-pages/f21magd150lab05_Gray)
+This lab is about Television and the various ways for it to be interactive. There are buttons that the user can press to turn on and off the TV and others too. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# MAGD Lab 07
+[lab 07](https://github.com/JGray03/MAGD-150-Projects/tree/gh-pages/f21magd150lab07_Gray)
+This lab is about autuum and it shows leaves falling or floating to represent that. This lab required loops for the leaves to float and if then statements to make it work.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JGray03/MAGD-150-Projects/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# MAGD Lab 10
+[lab 10](https://github.com/JGray03/MAGD-150-Projects/tree/gh-pages/f21magd150lab10_Gray)
+This lab required 3D objects to spin and rotate. I put pictures of maps on the objects and there is also a camera that the user can move which makes it interactive.
